@@ -1,0 +1,5 @@
+authentication.txt
+.DS_Store
+
+# using wildcard to ignore commit to repository
+*.log
